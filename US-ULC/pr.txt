@@ -1,7 +1,7 @@
 Notes from Georg:
 Unit Labor Costs = Measure Code 11
-PRS 3100 6 11 1 = PRs -3100 - 6 - 11 - 1
-             Series - Sector - Mesaure Code - Time 
+PRS 3100 6 11 1 = PRs -3100 - 06 - 11 - 1
+             Series - Sector -Class Code - Mesaure Code - Time 
 
 
                 Major Sector Productivity and Costs (PR)
